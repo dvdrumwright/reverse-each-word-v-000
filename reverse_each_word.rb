@@ -1,5 +1,5 @@
 def reverse_each_word(string)
   string = "Hello there, and how are you?"
-  string.split.alt_reverse 
+  string.alt_reverse 
     
 end 
