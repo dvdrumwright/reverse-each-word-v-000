@@ -1,5 +1,5 @@
 def reverse_each_word(text)
 text = "Hello there, and how are you?"
-text.string.reverse 
+text.length.reverse 
 end 
 end 
